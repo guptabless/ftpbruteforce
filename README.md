@@ -3,5 +3,9 @@ This tool helps you to bruteforce the username and the password of the FTP servi
 
 
 
-#Usage
-python bruteforce.py
+# Usage
+python ftpbruteforce.py
+
+
+![image](https://user-images.githubusercontent.com/61534368/110216672-5f9c7400-7e7e-11eb-9215-5a68cb78e594.png)
+
